@@ -1,11 +1,8 @@
-One of the site feature is managing employee resourses. This feature will take "employees" tab in main menu. The following tab requires big table for 
-describing every employee and button "add" - for adding new eployees.
-
-On the following picture situated eployee's tab:
-![image](https://user-images.githubusercontent.com/83345134/126640797-0398217e-3155-4b50-b8d3-03cdd4b03d20.png)
-By clicking green button user will add new employee. To add new employee user should write down his department, some personal data and his salary.
-Then user should press green button "save" to store this data in database.
-![image](https://user-images.githubusercontent.com/83345134/126640808-2f16bcc1-9d5e-4b28-906b-5ea430a15c1e.png)
-To delete an employee user should right-click eployee in the table and press delete button.
-![image](https://user-images.githubusercontent.com/83345134/126640819-fc317c79-80db-43f7-96a7-b31e3267e330.png)
-
+![image](https://user-images.githubusercontent.com/83345134/126801367-3f1c7b44-19a7-4aed-a978-0d6a7df1f7b4.png "Departments list")
+![image](https://user-images.githubusercontent.com/83345134/126802197-ee75b9e8-4cd9-4cd2-aa25-c7bb9b7128f6.png "Add department")
+![image](https://user-images.githubusercontent.com/83345134/126802247-8c3c933c-86e3-4296-8a0e-48d6fb4b2c37.png "Edit department")
+![image](https://user-images.githubusercontent.com/83345134/126802280-88ba5733-cac0-496c-b48a-46a2bbc9ee1b.png "Delete department")
+![image](https://user-images.githubusercontent.com/83345134/126802340-90598a48-cd7e-42b8-a013-2574450a8080.png "Employees list")
+![image](https://user-images.githubusercontent.com/83345134/126802382-7c79e587-dc11-421f-a601-8abae7ec896b.png "Add employee")
+![image](https://user-images.githubusercontent.com/83345134/126802938-6caedef6-f70c-4bcf-b9b9-3cba4cbf7d4f.png "Edit employee")
+![image](https://user-images.githubusercontent.com/83345134/126802990-209a3c37-fc3f-43c4-bd23-5259705364ef.png "Delete employee")
