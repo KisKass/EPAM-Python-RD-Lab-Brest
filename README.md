@@ -6,7 +6,7 @@ change (add/edit/delete) the above data
 
 The structure of the project is following:
 
-department-app (a project/app directory)  
+Department-app (a project/app directory). It includes:    
   1. migrations (includes migration files to manage database schema changes)  
   2. models (includes modules with Python classes describing DB models)  
   3. service (includes modules with functions/classes to work with DB)  
