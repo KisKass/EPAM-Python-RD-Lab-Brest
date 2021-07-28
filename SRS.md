@@ -4,10 +4,11 @@
 Main scenario: 
 • User selects item “Department”; 
 • Application displays list of department. 
+![1](https://user-images.githubusercontent.com/65542353/127387862-ace08915-3504-4c30-b775-319e18a02409.png)
 
 The list displays the following columns: 
 • Name department – departament name; 
-• Short name of department – short name of deprtament; 
+• Average salary – Average wages of employees; 
 Add department
 Main scenario: 
 • User clicks the “Add” button in the department list view mode; 
@@ -23,13 +24,14 @@ Cancel operation scenario:
 • User enters department data and presses “Cancel” button;
 • Data don’t save in data base, then list of department records is displaying to user. 
 • If the user selects the menu item ”Department” or "Employee", the data will not be saved to the database and the corresponding form with updated data will be opened. 
+![2](https://user-images.githubusercontent.com/65542353/127388666-6bee0a67-c101-4f5c-a217-d147a66aa396.png)
 
 When adding a car, the following details are entered: 
 • Name department – departament name; 
-• Short name of department – short name of deprtament; 
+• Average salary – Average wages of employees; 
  Constraints for data validation: 
 • Name department – maximum length of 30 characters; 
-• Short name of department- unique, maximum length of 10 characters; . 
+• Average salary- unique, maximum length of 5 characters; . 
  Edit department
 Main scenario: 
 • User clicks the “Edit” button in the department list view mode; 
@@ -45,6 +47,7 @@ Main scenario:
 • User enters car data and presses “Cancel” button; 
 • Data don’t save in data base, then list of departments records is displaying to user. 
 If the user selects the menu item ”Department” or "Employee", the data will not be saved to the database and the corresponding form with updated data will be opened.
+![редактировать](https://user-images.githubusercontent.com/65542353/127388771-dee34b02-ea34-49c5-9511-cdb05d5894e1.png)
 
 Removing the department
 Main scenario: 
@@ -54,6 +57,7 @@ Main scenario:
 • Record is deleted from database; 
 • If error occurs, then error message displays; 
 • If a department record is successfully deleted, a list of departments with no deleted records is displayed and employees with the deleted department are deleted.
+![удалить](https://user-images.githubusercontent.com/65542353/127388802-c8d1113f-3bb6-4fa5-b2ad-f5633a0da100.png)
 
 Cancel operation scenario: 
 • User is in display mode of departments list and press “Delete” button; 
