@@ -23,6 +23,6 @@ To edit enployee's information the user should double click employee in the tabl
 
 ![image](https://user-images.githubusercontent.com/83345134/127285373-3f14cb74-9510-4dc3-8e3a-2c2c01dee4a4.png "Edit employee")
 
-To delete an employee user should right-click eployee in the table and press delete button. Otherwise, hi will need to press "Cancel" button to return back to employees' list:
+To delete an employee user should right-click eployee in the table and press delete button. Otherwise, press "Cancel" button to return back to employees' list:
 
 ![image](https://user-images.githubusercontent.com/83345134/127285318-fc4847d6-ff49-4f51-863a-19ffafd29391.png "Delete employee")
