@@ -16,4 +16,4 @@ department-app (a project/app directory)
   |__ tests (this package must include modules with unit tests)
   |__ views (this package must include modules with Web controllers/views)
   
-To read extended information describing usability of project open the [a relative link](SRS.md) file.
+To read extended information describing usability of project open the [SRS.md](SRS.md) file.
