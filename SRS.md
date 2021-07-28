@@ -19,7 +19,7 @@ Then user should press green button "save" to store this data in database.
 
 ![image](https://user-images.githubusercontent.com/83345134/127285174-8b015c12-a1b2-4ff9-a32c-d93a516a4bbb.png "Add employee")
 
-To edit enployee's information the user should double click employee in the table, fill in the required info and press "Yes", otherwise press "Cancel" to return back: 
+To edit enployee's information the user should double click employee in the table, fill in the required info and press "Save", otherwise press "Cancel" to return back: 
 
 ![image](https://user-images.githubusercontent.com/83345134/127285373-3f14cb74-9510-4dc3-8e3a-2c2c01dee4a4.png "Edit employee")
 
