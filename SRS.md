@@ -1,9 +1,10 @@
 ## 2. Employees  
   ### 2.1. Display list of Employees  
-    This mode is intended for viewing and editing the employees list.  
-    Main scenario:
-      1. User selects item "Employees";
-      2. Application dispalys list of employees.  
+  This mode is intended for viewing and editing the employees list.  
+  Main scenario:
+  
+    1. User selects item "Employees";
+    2. Application dispalys list of employees.  
   
     The list displays following employees' information:  
       1. Department - place, where employee is working;  
