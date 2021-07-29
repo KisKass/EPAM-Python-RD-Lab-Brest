@@ -67,6 +67,7 @@
   * If entered data is valid, then edited data is added to database;  
   * If error occurs, then error message is displaying;  
   * If employee’s record is successfully edited, then list of employees with added records is displaying.  
+ 
   __Cancel operation scenario:__  
   * User clicks the “Edit” button in the employees list view mode;  
   * Application displays form to enter employee data;  
