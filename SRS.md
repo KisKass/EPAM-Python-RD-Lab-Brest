@@ -1,15 +1,15 @@
 #### Department
 ##### Display list of department
-This mode is intended for viewing and editing the department list 
+This mode is intended for viewing and editing the departments list 
 
 ___Main scenario:___ 
-* User selects item “Department”; 
+* User selects item “Departments”; 
 * Application displays list of department. 
 
 ![1](https://user-images.githubusercontent.com/65542353/127387862-ace08915-3504-4c30-b775-319e18a02409.png)
 
 The list displays the following columns: 
-* Name department – departament name; 
+* Department name – departament name; 
 * Average salary – Average wages of employees; 
 
 
@@ -33,7 +33,6 @@ Cancel operation scenario:
 
 When adding a department, the following details are entered: 
 * Name department – departament name; 
-* Average salary – Average wages of employees; 
 
 Constraints for data validation:
 
@@ -52,10 +51,10 @@ ___Main scenario:___
 ___Cancel operation scenario:___ 
 * User clicks the “Edit” button in the departments list view mode;
 * Application displays form to enter departmentsdata; 
-* User enters car data and presses “Cancel” button; 
+* User enters department data and presses “Cancel” button; 
 * Data don’t save in data base, then list of departments records is displaying to user.
 
-If the user selects the menu item ”Department” or "Employee", the data will not be saved to the database and the corresponding form with updated data will be opened.
+If the user selects the menu item ”Departments” or "Employees", the data will not be saved to the database and the corresponding form with updated data will be opened.
 
 ![редактировать](https://user-images.githubusercontent.com/65542353/127388771-dee34b02-ea34-49c5-9511-cdb05d5894e1.png)
 
@@ -63,7 +62,8 @@ If the user selects the menu item ”Department” or "Employee", the data will 
 ___Main scenario:___ 
 * The user, while in the list of departments mode, presses the "Delete" button in the selected department line; 
 * Application displays confirmation dialog “Please confirm delete department?”; 
-* The user confirms the removal of the department; 
+* The user confirms the removal of the department;
+* The user confirms the removal of employees of this department; 
 * Record is deleted from database; 
 * If error occurs, then error message displays; 
 * If a department record is successfully deleted, a list of departments with no deleted records is displayed and employees with the deleted department are deleted.
