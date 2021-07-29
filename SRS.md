@@ -1,4 +1,4 @@
-##### Department
+#### Department
 ##### Display list of department
 This mode is intended for viewing and editing the department list 
 
