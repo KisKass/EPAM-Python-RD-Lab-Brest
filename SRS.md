@@ -46,7 +46,9 @@ ___Main scenario:___
 * If any data is entered incorrectly, incorrect data messages are displayed; 
 * If entered data is valid, then edited data is added to database; 
 * If error occurs, then error message is displaying; 
-* If the vehicle record is successfully edited, the list of departments with the added records is displayed and the data in the "employees" table is changed.
+* If the departments record is successfully edited, the list of departments with the added records is displayed and the data in the "depatments" table is changed.
+
+![редактировать](https://user-images.githubusercontent.com/65542353/127388771-dee34b02-ea34-49c5-9511-cdb05d5894e1.png)
 
 ___Cancel operation scenario:___ 
 * User clicks the “Edit” button in the departments list view mode;
@@ -56,7 +58,6 @@ ___Cancel operation scenario:___
 
 If the user selects the menu item ”Departments” or "Employees", the data will not be saved to the database and the corresponding form with updated data will be opened.
 
-![редактировать](https://user-images.githubusercontent.com/65542353/127388771-dee34b02-ea34-49c5-9511-cdb05d5894e1.png)
 
 ##### Removing the department
 ___Main scenario:___ 
