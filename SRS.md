@@ -3,29 +3,29 @@
   This mode is intended for viewing and editing the employees list.  
   Main scenario:
   
-    1. User selects item "Employees";
-    2. Application dispalys list of employees.  
+  1. User selects item "Employees";
+  2. Application dispalys list of employees.  
   
-    The list displays following employees' information:  
-      1. Department - place, where employee is working;  
-      2. Name of the employee;  
-      3. Date of birth of the employee;  
-      4. Employee's salary.  
+  The list displays following employees' information:  
+  1. Department - place, where employee is working;  
+  2. Name of the employee;  
+  3. Date of birth of the employee;  
+  4. Employee's salary.  
     
-    Filtering by date:  
-      1. In the employees list view mode, the user sets a date filter and presses the refresh list button (to the right of the date entry field);  
-      2. The application will show the employees only for a certain period of time.  
+  Filtering by date:  
+  1. In the employees list view mode, the user sets a date filter and presses the refresh list button (to the right of the date entry field);  
+  2. The application will show the employees only for a certain period of time.  
 
-    Restrictions:  
-      * Start date of the period should be less then end date of the period;  
-      * If start date is blank, then filtering by end date only.  
-      * If end date is blank, then filtering by start date only.  
-      * Updating data after selecting the filtering conditions is carried out by pressing the “Refresh” button.  
+  Restrictions:  
+  * Start date of the period should be less then end date of the period;  
+  * If start date is blank, then filtering by end date only.  
+  * If end date is blank, then filtering by start date only.  
+  * Updating data after selecting the filtering conditions is carried out by pressing the “Refresh” button.  
       
   ![image](https://user-images.githubusercontent.com/83345134/127285130-2928a7fa-dd6e-4b84-a077-ff80b723aa25.png "Employees list")  
     Pic 2.1 View the employees list.
       
-   ### 2.2. Add employee  
+  ### 2.2. Add employee  
     Main scenario:  
       * User clicks the “Add” button in the employees list view mode;  
       * Application displays form to enter employee data;  
