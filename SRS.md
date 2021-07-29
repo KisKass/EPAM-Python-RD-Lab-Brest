@@ -82,7 +82,7 @@
        If error occurs, then error message displays;  
        If employee record is successfully deleted, then list of employees without deleted records is displaying.  
       
-      ![image](https://user-images.githubusercontent.com/83345134/127285318-fc4847d6-ff49-4f51-863a-19ffafd29391.png "Delete employee")  
+      ![image](https://user-images.githubusercontent.com/83345134/127285318-fc4847d6-ff49-4f51-863a-19ffafd29391.png)  
     Pic 2.4 Delete employee dialog.  
     
     Cancel operation scenario:  
