@@ -38,7 +38,7 @@ When adding a department, the following details are entered:
 Constraints for data validation:
 
 * Name department – maximum length of 30 characters; 
-* Average salary- unique, maximum length of 5 characters; . 
+* Average salary- maximum length of 5 characters; . 
  ##### Edit department
 ___Main scenario:___ 
 * User clicks the “Edit” button in the department list view mode; 
@@ -50,12 +50,6 @@ ___Main scenario:___
 * If the departments record is successfully edited, the list of departments with the added records is displayed and the data in the "depatments" table is changed.
 
 ![редактировать](https://user-images.githubusercontent.com/65542353/127388771-dee34b02-ea34-49c5-9511-cdb05d5894e1.png)
-
-___Cancel operation scenario:___ 
-* User clicks the “Edit” button in the departments list view mode;
-* Application displays form to enter departmentsdata; 
-* User enters department data and presses “Cancel” button; 
-* Data don’t save in data base, then list of departments records is displaying to user.
 
 If the user selects the menu item ”Departments” or "Employees", the data will not be saved to the database and the corresponding form with updated data will be opened.
 
@@ -73,8 +67,8 @@ ___Main scenario:___
 ![удалить](https://user-images.githubusercontent.com/65542353/127388802-c8d1113f-3bb6-4fa5-b2ad-f5633a0da100.png)
 
 ___Cancel operation scenario:___
-* User is in display mode of departments list and press “Delete” button; 
-* Application displays confirmation dialog “Please confirm delete department?”; 
+* User is in display mode of departments list and press “Delete”,“Edit”, “Add” button; 
+* The application displays the selected window; 
 * User press “Cancel” button; 
 * List of departments without changes is displaying. 
 
