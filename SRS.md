@@ -1,5 +1,5 @@
- #####Department
-#####Display list of department
+##### Department
+##### Display list of department
 This mode is intended for viewing and editing the department list 
 
 ___Main scenario:___ 
@@ -13,7 +13,7 @@ The list displays the following columns:
 * Average salary – Average wages of employees; 
 
 
-#####Add department
+##### Add department
 ___Main scenario:___ 
 * User clicks the “Add” button in the department list view mode; 
 * Application displays form to enter department data; 
