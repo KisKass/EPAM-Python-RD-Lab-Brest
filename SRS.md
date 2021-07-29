@@ -35,6 +35,7 @@
   * If entered data is valid, then record is adding to database;  
   * If error occurs, then error message is displaying;  
   * If new employee record is successfully added, then list of employees with added records is displaying.  
+ 
   Cancel operation scenario:  
   * User clicks the “Add” button in the employees list view mode;  
   * Application displays form to enter employee’s data;  
