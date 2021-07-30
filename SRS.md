@@ -6,8 +6,8 @@
   1. User selects item "Employees";
   2. Application dispalys list of employees.  
       
-  ![image](https://user-images.githubusercontent.com/83345134/127285130-2928a7fa-dd6e-4b84-a077-ff80b723aa25.png "Employees list")  
-    Pic 2.1 View the employees list.
+  ![image](https://user-images.githubusercontent.com/83345134/127665649-7972b0b3-22ea-421e-9dfa-fc800c72069c.png "Employees list")  
+    Pic 2.1.1 View the employees list.
     
   __The list displays following employees' information:__  
   1. Department - place, where employee is working;  
@@ -23,7 +23,9 @@
   5. To reset filter, user should press the reset button.
 
   __Restrictions:__  
-  * Start date of the period should be less then end date of the period, but if the user will make a mistake, he/she will see the invalid date message;   
+  * Start date of the period should be less then end date of the period, but if the user will make a mistake, he/she will see the invalid date message
+  ![image](https://user-images.githubusercontent.com/83345134/127665988-e414e59f-72dd-4dfb-acea-45c86dfafb68.png)
+  Pic 2.1.2 Invalid date message
   * Updating data after selecting the filtering conditions is carried out by pressing the “Refresh” button.  
 
       
