@@ -3,8 +3,13 @@
 ![image](https://user-images.githubusercontent.com/83345134/127284946-62fb3d35-98d4-40a6-8d0a-923d58bc3467.png "Add department")
 ![image](https://user-images.githubusercontent.com/83345134/127284991-63ca404a-6d7a-400a-a6e1-c7b6b9560a7e.png "Edit department")
 ![image](https://user-images.githubusercontent.com/83345134/127285071-2b699f96-0ac5-4421-b7ab-d78414e6d1d0.png "Delete department")
+
 ![add error](https://user-images.githubusercontent.com/83345134/127475141-a99eb941-f19b-492b-979f-187fbaeca8a7.png)
+![image](https://user-images.githubusercontent.com/83345134/127644898-93af65ae-845a-4c12-9f55-51c9ebb464fe.png)
+
 ![edit error](https://user-images.githubusercontent.com/83345134/127475463-0334213d-f7ff-4065-9de9-25fd2f5c0fa4.png)
+![image](https://user-images.githubusercontent.com/83345134/127644865-9b9c2e30-7431-4949-80a4-7dee9e231241.png)
+
 ![delete error](https://user-images.githubusercontent.com/83345134/127476504-d0bc1912-8c68-4eb9-8f93-77e5ee5a2c0f.png)
 
 
