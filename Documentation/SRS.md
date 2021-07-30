@@ -22,6 +22,9 @@ ___Main scenario:___
 * If any data is entered incorrectly, incorrect data messages are displayed; 
 * If entered data is valid, then record is adding to database; 
 * If error occurs, then error message is displaying; 
+
+![adderr](https://user-images.githubusercontent.com/65542353/127623054-bbb46552-5e15-42a8-9fc1-4cd6db64c6dd.png)
+
 * If new department record is successfully added, then list of department with added records is displaying. 
 Cancel operation scenario: 
 * User clicks the “Add” button in the department list view mode;
@@ -47,6 +50,9 @@ ___Main scenario:___
 * If any data is entered incorrectly, incorrect data messages are displayed; 
 * If entered data is valid, then edited data is added to database; 
 * If error occurs, then error message is displaying; 
+
+![editerr](https://user-images.githubusercontent.com/65542353/127623114-dfcbe175-3ad4-457f-b636-5ee2f2a22282.png)
+
 * If the departments record is successfully edited, the list of departments with the added records is displayed and the data in the "depatments" table is changed.
 
 ![редактировать](https://user-images.githubusercontent.com/65542353/127388771-dee34b02-ea34-49c5-9511-cdb05d5894e1.png)
@@ -62,6 +68,9 @@ ___Main scenario:___
 * The user confirms the removal of employees of this department; 
 * Record is deleted from database; 
 * If error occurs, then error message displays; 
+
+![err](https://user-images.githubusercontent.com/65542353/127623171-73bc29b8-388f-4d7b-ac23-aa9d82a2664b.png)
+
 * If a department record is successfully deleted, a list of departments with no deleted records is displayed and employees with the deleted department are deleted.
 
 ![удалить](https://user-images.githubusercontent.com/65542353/127388802-c8d1113f-3bb6-4fa5-b2ad-f5633a0da100.png)
