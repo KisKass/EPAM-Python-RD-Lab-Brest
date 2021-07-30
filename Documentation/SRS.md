@@ -20,6 +20,9 @@ ___Main scenario:___
 * Application displays form to enter department data; 
 * User enters department data and presses “Save” button;
 * If any data is entered incorrectly, incorrect data messages are displayed; 
+
+![eror_incorect](https://user-images.githubusercontent.com/65542353/127707104-5f1cc988-e42d-478a-a31e-90e1a7cc3a2f.png)
+
 * If entered data is valid, then record is adding to database; 
 * If error occurs, then error message is displaying; 
 
@@ -36,11 +39,11 @@ Cancel operation scenario:
 ![2](https://user-images.githubusercontent.com/65542353/127388666-6bee0a67-c101-4f5c-a217-d147a66aa396.png)
 
 When adding a department, the following details are entered: 
-* Name department – departament name; 
+* Department name – departament name; 
 
 Constraints for data validation:
 
-* Name department – maximum length of 30 characters; 
+* Department name – maximum length of 30 characters; 
 * Average salary- maximum length of 5 characters; . 
  ##### Edit department
 ___Main scenario:___ 
@@ -82,25 +85,4 @@ ___Cancel operation scenario:___
 * List of departments without changes is displaying. 
 
 
-
-One of the site feature is managing employee resourses. This feature will take "employees" tab in main menu. The following tab requires big table for 
-describing every employee and button "add" - for adding new eployees.  
-
-On the following picture situated eployee's tab:  
-
-![image](https://user-images.githubusercontent.com/83345134/127285130-2928a7fa-dd6e-4b84-a077-ff80b723aa25.png "Employees list")
-
-
-By clicking green button user will add new employee. To add new employee user should write down his department, some personal data and his salary.
-Then user should press green button "save" to store this data in database.  
-
-![image](https://user-images.githubusercontent.com/83345134/127285174-8b015c12-a1b2-4ff9-a32c-d93a516a4bbb.png "Add employee")
-
-To edit enployee's information the user should double click employee in the table, fill in the required info and press "Yes", otherwise press "Cancel" to return back: 
-
-![image](https://user-images.githubusercontent.com/83345134/127285373-3f14cb74-9510-4dc3-8e3a-2c2c01dee4a4.png "Edit employee")
-
-To delete an employee user should right-click eployee in the table and press delete button. Otherwise, hi will need to press "Cancel" button to return back to employees' list:
-
-![image](https://user-images.githubusercontent.com/83345134/127285318-fc4847d6-ff49-4f51-863a-19ffafd29391.png "Delete employee")
 
