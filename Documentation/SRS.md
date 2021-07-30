@@ -51,6 +51,9 @@ ___Main scenario:___
 * Application displays form to enter department data;
 * User enters department data and presses “Save” button; 
 * If any data is entered incorrectly, incorrect data messages are displayed; 
+
+![Edit_incorect](https://user-images.githubusercontent.com/65542353/127707610-40d1cf15-d71f-40d3-bf68-01d002988429.png)
+
 * If entered data is valid, then edited data is added to database; 
 * If error occurs, then error message is displaying; 
 
