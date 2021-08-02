@@ -6,7 +6,7 @@
   1. User selects item "Employees";
   2. Application dispalys list of employees.  
       
-  ![image](https://user-images.githubusercontent.com/83345134/127665649-7972b0b3-22ea-421e-9dfa-fc800c72069c.png "Employees list")  
+  ![image](https://user-images.githubusercontent.com/83345134/127887980-21df5e37-3439-4cb9-930a-9b301fca292d.png "Employees list")  
     Pic 2.1.1 View the employees list.
     
   __The list displays following employees' information:__  
@@ -14,17 +14,20 @@
   2. Name of the employee;  
   3. Date of birth of the employee;  
   4. Employee's salary.  
-    
-  __Filtering by date:__  
-  1. In the employees list view mode, the user sets a date filter and presses the refresh list button (to the right of the date entry field);  
-  2. The application will show the employees only for a certain period of time.
-  3. If user wants to get employees, that are born below any date, he/she should set only end date and press refresh button.
-  4. If user wants to get employees, that are born after any date, he/she should set only start date and press refresh button.
-  5. To reset filter, user should press the reset button.
+   
+  __Filtering:__ 
+  1. In the employees list view mode, the user can combine date filter and department filter: he/she sets a date, choose any existing department and presses the    refresh list button (to the right of the date entry field);  
+  2. The default value of department filter is null, so user can skip setting this filter to get all employees. 
+  3. The application will show only filtred employees.
+  4. If user wants to get employees, that are born below any date, he/she should set only end date and press refresh button.
+  5. If user wants to get employees, that are born after any date, he/she should set only start date and press refresh button.
+  6. To reset filter, user should press the reset button.
+  7. The example of filter is following:
+  ![image](https://user-images.githubusercontent.com/83345134/127888106-4d4df459-eb8b-4654-94fa-e85cdb06e567.png)
 
   __Restrictions:__  
   * Start date of the period should be less then end date of the period, but if the user will make a mistake, he/she will see the invalid date message
-  ![image](https://user-images.githubusercontent.com/83345134/127665988-e414e59f-72dd-4dfb-acea-45c86dfafb68.png)
+  ![image](https://user-images.githubusercontent.com/83345134/127888024-4d0cafb2-8566-4157-8657-7cb3a01118c6.png)
   Pic 2.1.2 Invalid date message
   * Updating data after selecting the filtering conditions is carried out by pressing the “Refresh” button.  
 
@@ -79,7 +82,7 @@
 
   ### 2.4 Removing employee  
         
-  ![image](https://user-images.githubusercontent.com/83345134/127285318-fc4847d6-ff49-4f51-863a-19ffafd29391.png)  
+  ![image](https://user-images.githubusercontent.com/83345134/127890749-2785e253-ff3d-4d9c-94e3-46be05d34c25.png)  
     Pic 2.4.1 Delete employee dialog.  
     
   __Main scenario:__  
@@ -88,7 +91,7 @@
   * The user confirms the removal of the employee;  
   * Record is deleted from database;  
   * If error occurs, then error message displays  
-  ![delete error](https://user-images.githubusercontent.com/83345134/127639021-fb06c230-6baa-466c-a253-d553aeb58a00.png)
+  ![delete error](https://user-images.githubusercontent.com/83345134/127890943-82714496-3ffd-4102-a647-64cd25345d8b.png)
   Pic 2.4.2 Deleting error occurs   
   * If employee record is successfully deleted, then list of employees without deleted records is displaying.     
     
