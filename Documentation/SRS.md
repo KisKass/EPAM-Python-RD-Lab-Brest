@@ -22,13 +22,14 @@
   4. If user wants to get employees, that are born below any date, he/she should set only end date and press refresh button.
   5. If user wants to get employees, that are born after any date, he/she should set only start date and press refresh button.
   6. To reset filter, user should press the reset button.
-  7. The example of filter is following:
+  7. The example of filter is following:  
   ![image](https://user-images.githubusercontent.com/83345134/127888106-4d4df459-eb8b-4654-94fa-e85cdb06e567.png)
+  Pic 2.1.2 Filtering example
 
   __Restrictions:__  
-  * Start date of the period should be less then end date of the period, but if the user will make a mistake, he/she will see the invalid date message
+  * Start date of the period should be less then end date of the period, but if the user will make a mistake, he/she will see the invalid date message  
   ![image](https://user-images.githubusercontent.com/83345134/127888024-4d0cafb2-8566-4157-8657-7cb3a01118c6.png)
-  Pic 2.1.2 Invalid date message
+  Pic 2.1.3 Invalid date message
   * Updating data after selecting the filtering conditions is carried out by pressing the “Refresh” button.  
 
       
