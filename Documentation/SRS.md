@@ -14,17 +14,20 @@
 
 
 ![image](https://user-images.githubusercontent.com/83345134/127285373-3f14cb74-9510-4dc3-8e3a-2c2c01dee4a4.png "Edit employee")
-![image](https://user-images.githubusercontent.com/83345134/127665649-7972b0b3-22ea-421e-9dfa-fc800c72069c.png "Employees list")
-![date error](https://user-images.githubusercontent.com/83345134/127665988-e414e59f-72dd-4dfb-acea-45c86dfafb68.png)
+![image](https://user-images.githubusercontent.com/83345134/127887980-21df5e37-3439-4cb9-930a-9b301fca292d.png "Employees list")
+
+![date error](https://user-images.githubusercontent.com/83345134/127888024-4d0cafb2-8566-4157-8657-7cb3a01118c6.png)
+![image](https://user-images.githubusercontent.com/83345134/127888106-4d4df459-eb8b-4654-94fa-e85cdb06e567.png "filter example")
 
 
 
 ![image](https://user-images.githubusercontent.com/83345134/127285174-8b015c12-a1b2-4ff9-a32c-d93a516a4bbb.png "Add employee")
-![image](https://user-images.githubusercontent.com/83345134/127285318-fc4847d6-ff49-4f51-863a-19ffafd29391.png "Delete employee")
+![image](https://user-images.githubusercontent.com/83345134/127890749-2785e253-ff3d-4d9c-94e3-46be05d34c25.png "Delete employee")
+
 ![add error](https://user-images.githubusercontent.com/83345134/127639007-3ceae0d9-212e-4714-8424-e515f535e0e3.png)
 ![image](https://user-images.githubusercontent.com/83345134/127649375-0ce328e1-11a7-494b-a3c3-54e2081a6185.png)
 
 ![edit error](https://user-images.githubusercontent.com/83345134/127639014-e66fa490-4b0f-487c-8006-6faf4f215ced.png)
 ![image](https://user-images.githubusercontent.com/83345134/127649385-d249277f-5c6b-499c-bfdc-eb31d32e981a.png)
 
-![delete error](https://user-images.githubusercontent.com/83345134/127639021-fb06c230-6baa-466c-a253-d553aeb58a00.png)
+![delete error](https://user-images.githubusercontent.com/83345134/127890943-82714496-3ffd-4102-a647-64cd25345d8b.png)
