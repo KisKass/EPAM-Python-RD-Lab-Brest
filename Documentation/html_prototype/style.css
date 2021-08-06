@@ -22,10 +22,10 @@ div.head{
 }
 .part{
 	display:inline-block;
-	 vertical-align:middle
+	vertical-align:middle
 }
 select{
-	color: #95a5a6;
+	color: #000000;
 	width:300px;
     font-family: "Helvetica", arial, sans-serif;
     font-size: 18px;
@@ -39,10 +39,12 @@ select{
 	margin-left:30px;
 	margin-right:30px
 	}
+	
 p{font-size:40px; font-weight:bold;}
+
 input[type="date"]{
     appearance: none;
-    color: #95a5a6;
+    color: #000000;
     font-family: "Helvetica", arial, sans-serif;
     font-size: 18px;
     border:1px solid #ecf0f1;
@@ -85,6 +87,7 @@ input[type="date"]{
 	border-radius:50%;
 }
 #navbar li { display: inline; }
+
 #navbar {
   margin: 0;
   padding: 0;
