@@ -1,5 +1,15 @@
 <!DOCTYPE html>
 <html>
+	<script type="text/javascript">
+		function clicked() {
+		   if (confirm('Please confirm delete department')) {
+			   alert('An error has occurred, record is not deleted from database.')
+			   
+		   } else {
+			   return false;
+		   }
+		}
+	</script>
     <head>
         <meta charset="utf-8">
         <title>App</title>
@@ -29,7 +39,7 @@
 				<td>Bookkeeping</td>
 				<td>150</td>
 				<td><a href = "###"><button class="tablebutton" >🖊</button></a></td>
-				<td><a href = "###"><button class="tablebutton" onClick='location.href="departments_stuff/delete_example_1.html"'>🗑</button></a></td>
+				<td><a href = "###"><button class="tablebutton" onClick='return clicked();'>🗑</button></a></td>
 			</tr>
 		</tbody>
   </table>
