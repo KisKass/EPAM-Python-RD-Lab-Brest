@@ -3,21 +3,21 @@
 <script type="text/javascript">
     function clicked() {
         if (confirm('Please confirm delete employees')) {
-            window.location = "employees_stuff/delete_employees_1.html";
+            window.location = "delete_employees_1.html";
         } else {
             return false;
         }
     }
     function clicked2() {
         if (confirm('Please confirm delete employees')) {
-            window.location = "employees_stuff/delete_employees_2.html";
+            window.location = "delete_employees_2.html";
         } else {
             return false;
         }
     }
     function clicked3() {
         if (confirm('Please confirm delete employees')) {
-            window.location = "employees_stuff/delete_employees_3.html";
+            window.location = "delete_employees_3.html";
         } else {
             return false;
         }
@@ -26,14 +26,14 @@
 <head>
     <meta charset="utf-8">
     <title>App</title>
-    <link rel="stylesheet" type="text/css" href="style.css"/>
+    <link rel="stylesheet" type="text/css" href="../style.css"/>
 </head>
 <body>
 <div class = "head">Employees list</div>
 <ul id="navbar">
-    <li><a href="departments.html">Departments</a></li>
-    <li><a href="index_employees.html" class = "active">Employees</a></li>
-    <li><a href = "employees_stuff/add_employees.html" class = "button7">Add</a></li>
+    <li><a href="../departments.html">Departments</a></li>
+    <li><a href="../index_employees.html" class = "active">Employees</a></li>
+    <li><a href = "add_employees.html" class = "button7">Add</a></li>
 </ul>
 <br><br>
 <div id="filter">
@@ -49,8 +49,8 @@
     <div class="part">
         <input type = date></input>
     </div>
-    <button class = "reset" onClick='location.href="index_employees.html"'>Reset</button>
-    <button class = "refresh" onClick='location.href="index_filter.html"'>↺</button>
+    <button class = "reset" onClick='location.href="../index_employees.html"'>Reset</button>
+    <button class = "refresh" onClick='location.href="../index_filter.html"'>↺</button>
 </div>
 <div id="filter">
     <div class="part">
@@ -82,23 +82,23 @@
         <td>Boris Ivanov</td>
         <td>01.03.2018</td>
         <td>100</td>
-        <td><a href = "###"><div class="tablebutton" onClick='location.href="employees_stuff/edit_page_1_employees.html"'>🖊</div></a></td>
+        <td><a href = "###"><div class="tablebutton" onClick='location.href="edit_page_1_employees.html"'>🖊</div></a></td>
         <td><a href = "###"><div class="tablebutton" onClick='return clicked();'>🗑</div></a></td>
     </tr>
     <tr>
         <td>Bookkeeping</td>
-        <td>Anton Petrov</td>
+        <td>Anton Petrov edited</td>
         <td>12.03.2018</td>
         <td>200</td>
-        <td><a href = "###"><div class="tablebutton" onClick='location.href="employees_stuff/edit_page_2_employees.html"'>🖊</div></a></td>
+        <td><a href = "###"><div class="tablebutton" onClick='location.href="edit_page_2_employees.html"'>🖊</div></a></td>
         <td><a href = "###"><div class="tablebutton" onClick='return clicked2();'>🗑</div></a></td>
     </tr>
     <tr>
         <td>Human Resourses Department</td>
-        <td>Bogdan Popov</td>
+        <td>Bogdan Popov edited</td>
         <td>21.07.2018</td>
         <td>100</td>
-        <td><a href = "###"><div class="tablebutton" onClick='location.href="employees_stuff/edit_page_3_employees.html"'>🖊</div></a></td>
+        <td><a href = "###"><div class="tablebutton" onClick='location.href="edit_page_3_employees.html"'>🖊</div></a></td>
         <td><a href = "###"><div class="tablebutton" onClick='return clicked();'>🗑</div></a></td>
     </tr>
     </tbody>
