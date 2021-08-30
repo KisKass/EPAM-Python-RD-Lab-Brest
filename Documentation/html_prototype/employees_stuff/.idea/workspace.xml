@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="bdadd227-aeba-4662-b12d-c0f30d9134e9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/delete_employees_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/delete_employees_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/delete_employees_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/delete_employees_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/delete_employees_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/delete_employees_3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +48,7 @@
       <workItem from="1629557676749" duration="1006000" />
       <workItem from="1629956514740" duration="761000" />
       <workItem from="1630009125534" duration="3935000" />
+      <workItem from="1630312202454" duration="740000" />
     </task>
     <servers />
   </component>
@@ -61,5 +65,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
