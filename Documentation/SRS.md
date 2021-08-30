@@ -1,3 +1,4 @@
+
 ## 1. Departments
 ##### Display list of department
 This mode is intended for viewing and editing the departments list 
@@ -188,3 +189,4 @@ ___Cancel operation scenario:___
    If user wants to cancel Adding/Editing/Deleting operation, there are several ways:
    * User can press button "Cancel", then user will be returned to employees list;
    * User can switch to "Departments" menu item and chnges won't get in database.
+
