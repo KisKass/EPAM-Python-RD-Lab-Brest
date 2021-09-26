@@ -25,7 +25,7 @@ jobs:
           
     - name: pylint check
       run: |
-          pylint --load-plugins=pylint_django --django-settings-module=department_project.settings department_project/*
+          pylint --load-plugins=pylint_django --django-settings-module=depatment_project.settings depatment_project/*
           
     - name: Test with pytest
       run: |
