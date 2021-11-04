@@ -28,7 +28,7 @@ jobs:
           pylint --load-plugins=pylint_django --django-settings-module=depatment_project.settings depatment_project/*
         
     - name: Install Coveralls       
-      run:
+      run: |
         pip install coveralls
         coverage run --source=depatment_project manage.py test department_app  
    
