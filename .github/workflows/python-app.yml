@@ -33,6 +33,6 @@ jobs:
         coverage run --source=depatment_project depatment_project/manage.py test department_app  
    
     - name: Coveralls
-      uses: coverallsapp/github-action@master
-      with:
-        github-token: ${{ secrets.GITHUB_TOKEN }}
+      run: coveralls --service=github
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
