@@ -1,3 +1,6 @@
+[![Project build Actions Status](https://github.com/KisKass/EPAM-Python-RD-Lab-Brest/workflows/python-app/badge.svg)](https://github.com/KisKass/EPAM-Python-RD-Lab-Brest/actions)
+[![Coverage Status](https://coveralls.io/repos/github/KisKass/EPAM-Python-RD-Lab-Brest/badge.svg?branch=uhalavach)](https://coveralls.io/github/KisKass/EPAM-Python-RD-Lab-Brest?branch=uhalavach)
+
 This is a simple web application for managing departments and employees. The web application uses the aforementioned web service for storing data and reading 
 them from the database. The web application allows:
 
