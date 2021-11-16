@@ -1,0 +1,10 @@
+[run]
+omit =
+	setup.py
+	depatment_project/manage.py
+	*/tests*
+	*wsgi.py
+  *asgi.py
+	*admin.py
+	*apps.py
+	*/migrations*
