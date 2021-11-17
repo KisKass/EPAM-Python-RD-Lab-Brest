@@ -4,7 +4,8 @@ omit =
 	depatment_project/manage.py
 	*/tests*
 	*wsgi.py
-  *asgi.py
+  	*asgi.py
+	*urls.py
 	*admin.py
 	*apps.py
 	*/migrations*
